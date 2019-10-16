@@ -1,2 +1,6 @@
-public class FinalFrame {
+public class FinalFrame extends Frame {
+
+    public FinalFrame() {
+
+    }
 }
